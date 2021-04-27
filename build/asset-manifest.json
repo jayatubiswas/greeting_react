@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GreetingWebapp_React/static/css/main.65d29298.chunk.css",
+    "main.js": "/GreetingWebapp_React/static/js/main.dd5383cc.chunk.js",
+    "main.js.map": "/GreetingWebapp_React/static/js/main.dd5383cc.chunk.js.map",
+    "runtime-main.js": "/GreetingWebapp_React/static/js/runtime-main.1571431e.js",
+    "runtime-main.js.map": "/GreetingWebapp_React/static/js/runtime-main.1571431e.js.map",
+    "static/js/2.2aacc4f8.chunk.js": "/GreetingWebapp_React/static/js/2.2aacc4f8.chunk.js",
+    "static/js/2.2aacc4f8.chunk.js.map": "/GreetingWebapp_React/static/js/2.2aacc4f8.chunk.js.map",
+    "index.html": "/GreetingWebapp_React/index.html",
+    "static/css/main.65d29298.chunk.css.map": "/GreetingWebapp_React/static/css/main.65d29298.chunk.css.map",
+    "static/js/2.2aacc4f8.chunk.js.LICENSE.txt": "/GreetingWebapp_React/static/js/2.2aacc4f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1571431e.js",
+    "static/js/2.2aacc4f8.chunk.js",
+    "static/css/main.65d29298.chunk.css",
+    "static/js/main.dd5383cc.chunk.js"
+  ]
+}
